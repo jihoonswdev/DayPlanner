@@ -63,7 +63,3 @@ $("#hour-17 .description").val(localStorage.getItem("hour-17"));
 $("#hour-18 .description").val(localStorage.getItem("hour-18"));
 $("#hour-19 .description").val(localStorage.getItem("hour-19"));
 $("#hour-20 .description").val(localStorage.getItem("hour-20"));
-
-function pastPresentFuture() {}
-
-pastPresentFuture();
