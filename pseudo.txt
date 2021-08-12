@@ -1,1 +1,39 @@
+// Create our document ready function to make sure nothing runs before we load the page.
+$(document).ready(function ()) {
+
+}
+
+// Function to listen for click events on the page
+onClick function () {
+
+// grab the saved event options
+        // Create variables to save user input and time
+
+variables
+variables
+    // save to local storage
+
+    // alert user that items have been saved to localStorage.
+
+    // create some kind of timeOut value that removes the notification.
+
+
+
+
+// Create time updater function ()
+    // get the current time
+
+    // create our loop to go over all the time blocks
+        //().removeClass ()
+    // check to see if we have passed out time
+        // check out removeClass and addClass
+    // check to see if current hour matches physical hour
+
+    // check to see if the time is in the future
+
+//retrieve local storage and render items to the correct rows
+
+
+
+}
 

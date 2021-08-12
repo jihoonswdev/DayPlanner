@@ -1,0 +1,13 @@
+var timeHour8 = $('#hour-8'); // starts from 8 am
+var timeHour9 = $('#hour-9');
+var timeHour10 = $('#hour-10');
+var timeHour11 = $('#hour-11');
+var timeHour12 = $('#hour-12');
+var timeHour1 = $('#hour-13');
+var timeHour2 = $('#hour-14');
+var timeHour3 = $('#hour-15');
+var timeHour4 = $('#hour-16');
+var timeHour5 = $('#hour-17');
+var timeHour6 = $('#hour-18');
+var timeHour7 = $('#hour-19');
+var timeHour8 = $('#hour-20'); // ends at 8pm 
